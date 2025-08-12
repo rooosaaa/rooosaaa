@@ -13,8 +13,7 @@ I'm an MPhys Physics with Astrophysics student at the University of Manchester, 
 
 ---
 
-**Get in touch:**  
-[LinkedIn](https://www.linkedin.com/in/rosa-roberts) • [ORCID](https://orcid.org/0009-0001-8100-5473)
+**Get in touch:**  [LinkedIn](https://www.linkedin.com/in/rosa-roberts) • [ORCID](https://orcid.org/0009-0001-8100-5473)
 
 ---
 
