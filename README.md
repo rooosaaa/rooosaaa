@@ -8,7 +8,7 @@ I'm an MPhys Physics with Astrophysics student at the University of Manchester, 
 
 - **Programming:** Python, C++, Linux
 - **Machine Learning:** PyTorch, scikit-learn, TensorFlow, CNNs, supervised & unsupervised learning, clustering methods, data augmentation, feature extraction (e.g., t-SNE, PCA)
-- **Astrophysics Tools:** SAOImageDS9, IGLOO  
+- **Astrophysics Tools:** SAOImageDS9, IGLOO, astrophysical simulations
 - **Data Analysis:** Spectral analysis, model evaluation, uncertainty quantification
 
 ---
