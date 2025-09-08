@@ -1,6 +1,6 @@
 # Hi! I'm Rosa :)
 
-I'm an MPhys Physics with Astrophysics student at the University of Manchester, passionate about **computational astrophysics**, **machine learning**, and **data analysis**. I love working where astrophysics meets computation, building tools and models that turn raw astronomical data (especially from high-redshift galaxies) into meaningful insights using machine learning and other techniques.
+I'm a final year MPhys Physics with Astrophysics student at the University of Manchester, passionate about **computational astrophysics**, **machine learning**, and **data analysis**. I love working where astrophysics meets computation, building tools and models that turn raw astronomical data (especially from high-redshift galaxies) into meaningful insights using machine learning and other techniques.
 
 ---
 
