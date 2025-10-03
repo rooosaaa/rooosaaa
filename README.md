@@ -17,6 +17,6 @@ I'm a final year MPhys Physics with Astrophysics student at the University of Ma
 
 ---
 
-*"Tús maith leath na hoibre."* (A good start is half the work.)
+*Go mbeion an fórsa leat.*
 
 
