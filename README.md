@@ -4,15 +4,6 @@ I'm a incoming PhD student in AI and Astrophysics at the University of Mancheste
 
 ---
 
-## Key Skills
-
-- **Programming:** Python, C++, Linux
-- **Machine Learning:** PyTorch, scikit-learn, TensorFlow, CNNs, supervised & unsupervised learning, clustering methods, data augmentation, feature extraction (e.g., t-SNE, PCA)
-- **Astrophysics Tools:** SAOImageDS9, IGLOO, astrophysical simulations
-- **Data Analysis:** Spectral analysis, model evaluation, uncertainty quantification
-
----
-
 **Get in touch:**  [LinkedIn](https://www.linkedin.com/in/rosa-roberts) • [ORCID](https://orcid.org/0009-0001-8100-5473)
 
 ---
