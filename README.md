@@ -2,7 +2,24 @@
 
 I'm an incoming **PhD student in AI and Astrophysics at the University of Manchester**, with a background in **Physics with Astrophysics**. I'm interested in the intersection of **astrophysics, machine learning, and computational data analysis**, particularly in understanding galaxies in the early Universe.
 
-I recently graduated with a MPhys in Physics with Astrophysics from the University of Manchester, where my research focused on the morphology and ionising properties of ultra-blue galaxies in the early Universe. I have also worked on machine-learning approaches to astronomical data and completed a research internship through the **Google DeepMind Research Ready Programme**.
+---
+
+### Key Skills
+
+**Programming & Computing:**
+Python · C++ · Linux
+
+**Astrophysics & Research:**
+Astrophysics · High-Redshift Galaxy Evolution · Early-Universe Galaxies · JWST Data Analysis · Stellar Populations · Galaxy Morphology · Ionising Properties
+
+**Data Science & Statistics:**
+Data Analysis · Statistical Modelling · Statistical Inference · Scientific Computing · Visualisation
+
+**Machine Learning & AI:**
+Machine Learning · Deep Learning · Neural Networks · Computer Vision · Image Analysis · Pattern Recognition · PyTorch
+
+**Astronomical Data Analysis:**
+JWST/NIRCam & NIRSpec · Astronomical Imaging · Spectroscopic Analysis · Photometric Analysis · Resolved Galaxy Properties
 
 ---
 
