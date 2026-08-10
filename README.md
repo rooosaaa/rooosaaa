@@ -4,10 +4,6 @@ I'm an incoming **PhD student in AI and Astrophysics at the University of Manche
 
 I recently graduated with a MPhys in Physics with Astrophysics from the University of Manchester, where my research focused on the morphology and ionising properties of ultra-blue galaxies in the early Universe. I have also worked on machine-learning approaches to astronomical data and completed a research internship through the **Google DeepMind Research Ready Programme**.
 
-### Tools & Technologies
-
-**Python · PyTorch · Astropy · Pandas · C++ · Bagpipes · EXPANSE · Linux**
-
 ---
 
 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/rosa-roberts)
