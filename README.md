@@ -6,7 +6,7 @@ I recently graduated with a MPhys in Physics with Astrophysics from the Universi
 
 ### Tools & Technologies
 
-**Python · PyTorch · Astropy · Pandas · NumPy · PyMC · Bagpipes · EXPANSE · Linux · Git · LaTeX**
+**Python · PyTorch · Astropy · Pandas · C++ · Bagpipes · EXPANSE · Linux**
 
 ---
 
