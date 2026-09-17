@@ -1,6 +1,6 @@
 # Hi! I'm Rosa 👋
 
-I'm an incoming **PhD student in AI and Astrophysics at the University of Manchester**, with a background in **Physics with Astrophysics**. I'm interested in the intersection of **astrophysics, machine learning, and computational data analysis**, particularly in understanding galaxies in the early Universe.
+CDT PhD researcher at the University of Manchester, based in the Department of Computer Science and the Jodrell Bank Centre for Astrophysics (JBCA), developing machine learning methods to discover and characterise high-redshift galaxies in next-generation survey data. I am currently completing a PGT Diploma in Artificial Intelligence at Manchester. My past research used JWST spectroscopy and photometry to search for signatures of the Universe’s first stars in high-redshift galaxies. My background in observational astrophysics now shapes how I develop and apply AI methods to address questions in extragalactic astronomy.
 
 ---
 
