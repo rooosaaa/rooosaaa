@@ -23,6 +23,6 @@ JWST/NIRCam & NIRSpec · Astronomical Imaging · Spectroscopic Analysis · Photo
 
 ---
 
-**Get in touch:** [LinkedIn](https://www.linkedin.com/in/rosa-roberts)
+**Get in touch:** [LinkedIn](https://www.linkedin.com/in/rosa-roberts) [ORCID](https://orcid.org/0009-0001-8100-5473)
 
 *Go mbeion an fórsa leat.* ✨
